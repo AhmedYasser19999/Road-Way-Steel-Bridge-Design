@@ -11,6 +11,6 @@ Full Thesis/ – Final design report (PDF)
 Poster/ – Final design poster (PDF)
 Presentation/ – Summary for academic review
 
-🧰 Tools Used
+🧰 Software Tools Used
 
-AutoCAD, SAP2000, Excel, Microsoft PowerPoint & Microsoft Excel.
+AutoCAD, SAP2000, Excel, Microsoft PowerPoint, Microsoft Excel & Primavera P6.
